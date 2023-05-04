@@ -10,7 +10,7 @@
         android:id="@+id/recordButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Начать запись. № 24, БСБО-07-21"
+        android:text="Начать запись. № 1, БСБО-07-21"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.494"
